@@ -65,3 +65,23 @@ Figma has become a go-to wireframing and UI/UX design tool for many designers, t
 - **Integration**: Works well with tools like FigJam for brainstorming, and plugins to speed up your workflow.
 
 ## Benefits of Wireframing in Software Development
+✅ How Wireframes Guide the Design Process
+Wireframes act as blueprints for digital products. They outline the basic structure of a page—such as layout, content placement, and user flows—without the distraction of colors, images, or detailed styling. This allows teams to focus on functionality, user experience, and information hierarchy early in the design process.
+
+#### Example from Figma:
+With Figma’s drag-and-drop interface and grid system, designers can quickly mock up screens to test layout ideas. For instance, while designing an e-commerce app, a designer might use wireframes to explore different placements for the product image, price, and “Add to Cart” button. This helps stakeholders evaluate functionality before moving to visual design.
+
+##  Wireframing in Practice
+- 🧩 Real-World Scenario: Wireframing Prevents Usability Issues in a Healthcare Booking App
+
+**Context**
+- A startup was developing a healthcare appointment booking app to connect patients with doctors. The initial idea was simple: users could select a doctor, view available slots, and book an appointment. The team used Figma to wireframe the user flow before moving into development.
+
+#### 🚩 Usability Issue Identified in Wireframing
+During wireframing, the UX designer laid out a flow where users:
+- Select a specialty (e.g., cardiology)
+- View a list of doctors
+- Tap on a doctor to see details and schedule
+
+### 🛠️ Resolution from Wireframing Phase
+Instead of proceeding to development, the team brainstormed within the Figma wireframes. They revised the layout to include inline slot previews directly under each doctor’s name in the list view. Users could now compare availability at a glance, without opening multiple screens. They also added a "Quick Book" button for users who wanted to skip detailed doctor profiles altogether.
