@@ -86,7 +86,9 @@ During wireframing, the UX designer laid out a flow where users:
 ### 🛠️ Resolution from Wireframing Phase
 Instead of proceeding to development, the team brainstormed within the Figma wireframes. They revised the layout to include inline slot previews directly under each doctor’s name in the list view. Users could now compare availability at a glance, without opening multiple screens. They also added a "Quick Book" button for users who wanted to skip detailed doctor profiles altogether.
 
-📌 Conclusion: The Role of Wireframing in User-Centered Design
+
+
+### 📌 Conclusion: The Role of Wireframing in User-Centered Design
 This scenario highlights how wireframing acts as a critical checkpoint to identify and solve usability issues early. By visualizing the product’s flow in a low-fidelity format, teams can:
 - Uncover user friction points before any code is written
 - Iterate and test alternatives quickly
